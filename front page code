@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Pizza</title>
+    <script src="jquery.1.11.1.js"></script>
+</head>
+
+
+<body style="margin: 0%;padding: 0%;">
+    <!-- Main Header-->
+    <header>
+    <nav>
+        <div>
+        <ul>
+            
+            <li><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#student">Coupons/Offers</a></li>
+            <li><a href="#">Menu</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li style="border-radius: 80px; background-color: #00CFFF; text-align: center; padding:10px;"><a href="login.html">Login/SignUp</a></li>
+            </ul>
+        </div>
+        </nav>
+        <h1>Pizza <b style="color: darkgray">Delivery</b> System</h1>
+    </header>
+    <!-- Main Container -->
+    <section id="about"><!--About Section Start--> 
+        <div class="about1">
+        <h1>About Us</h1>
+          <div class="paragraph"><h1 style="color: black;">Love Pizza: Delivering Happiness
+  		  </h1>
+  	      What’s better than having a crispy melty pizza, you ask?
+
+Having that crispy and melty pizza in the comfort of your own home with the ones you love, we say.
+
+With Domino's it is always “Rishton ka time”. Whether it's a treat for your promotion, a kid topping his class or winning the heart of your wife who is too tired to cook after a long day at work! A cheesy slice of the best pizza is all one needs to put things into perspective and start any celebration. Plus, you do not even need to rush to the restaurant to have one now. A call, a few clicks on our website or a few touches on the mobile screen is all you have to do to have that tempting, light-on-the-pocket pizza at your doorstep.
+
+There is something for everyone here. The vegetarians, non-vegetarians, the sides’ lovers and also the ones who love to have something sweet by the time they reach the last bite of the last slice of pizza slice.<br><br>
+<h1 style="color: black;">What We Need - More Choice. More Fun.
+          <br></h1>
+
+          No matter what the situation, pizza always helps. Especially a pizza that gives you the freedom to choose your toppings - from paneer, crisp capsicum, onion, grilled mushroom, golden corn, black olives, fresh tomato, red paprika, jalapeno, paneer tikka and extra cheese to non-veg toppings such as pepper barbeque chicken, peri-peri chicken, grilled chicken rasher, chicken sausage or chicken tikka- the options are almost endless, anything and everything you can think of that too on top of the crust of your choice - New hand-tossed crust, wheat thin crust, cheese burst crust, classic hand-tossed crust or a fresh pan pizza. Because just like a pizza, Domino's understands you.<br>
+
+         <h1 style="color: black;">The Promise Of 30-Minute Delivery
+          <br></h1>
+          The icing on the cake or more aptly the extra cheese on your already fabulous pizza is that Domino’s takes only half an hour for its pizza delivery service. Don’t believe us? Time it if you please. With 1250+ stores present all over India, you can have a Domino’s pizza even while traveling on a train. Yes, you are reading it right, you can enjoy pizza on train too.
+
+So stop googling for the “pizza shops near me” and order from your nearest pizza outlet to have a hot box of pizza on your table in the next 30 minutes, or berth at the next halting station.
+
+<h1 style="color: black;">Franchise Information
+          <br></h1>
+          Jubilant FoodWorks Limited is the Master Franchisee of Domino’s Pizza in India, Bangladesh, Sri Lanka and Nepal with sole and exclusive rights to own and operate Domino’s Pizza restaurants in these territories. For any franchise-related queries, kindly email us directly at dominos.franchise@jublfood.com
+
+We have come across a few instances of fraudsters posing as Jubilant FoodWorks and asking for payment from gullible investors against the promise of a Domino’s franchise. We therefore caution and urge all interested parties to be careful and vigilant and interact only with the email id mentioned above. Anyone dealing with such fraudsters shall be doing so on their own peril, risk and consequences.
+
+Neither Jubilant FoodWorks nor its Directors/Officers shall be responsible for any loss, harm, damage or fraud that occurs or may occur or arise to any person who decides to access such fake websites, or deal with them.
+
+                            
+          </div>
+        </div>
+    </section>
+    <section id="student">
+    <div class="services">
+
+        <div class="services1"></div>
+        <div class="services2"></div>
+        <div class="services3"></div>
+        <div class="services4"></div>
+
+
+      
+        </div>
+
+
+
+     </section><!--Student Section End-->
+    <div class="backheader2">
+  <h1>
+                 <q style="text-decoration: bold; color: white;">Pizza!  Love!  Family!  Freindship!  Emotions!  Happiness!</q><br><p><b><i>-Pizza Lover</i></b></p></h1>
+    </div>
+    <section id="contact">
+        <div class="contact">
+            <div class="sub2">
+                <h1 style="color: aqua;text-align: left;padding:20px;">Contact US</h1>
+                <address>Pizza Delivery,<br>Lovely Professional University,<br>Jalandhar-Delhi G.T. Road,<br>Phagwara,144411<br>
+                Punjab<br>
+                Contact No. 1234567890<br>
+                    email us: <a href="mailto:pizzadelivery@lpu.co.in" style="text-decoration: none; color:white;">pizzadelivery@lpu.co.in</a></address>
+            </div>
+            <div class="sub1">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3410.7556103720667!2d75.70284421509906!3d31.255188081458083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a5a594d22b88d%3A0x4cc934c58d0992ec!2sLovely+Professional+University!5e0!3m2!1sen!2sin!4v1563031218406!5m2!1sen!2sin" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+        </div>
+                        
+    </section>
+
+    <section id="footer">
+    <div class="footer1">
+        <p style="color: white;text-align: center;">&copy;All Rights Reserved. Copyrright|Developed by Class Work <a href=""style="color:wheat;text-decoration: none;"></a></p>    
+    </div>
+    </section>
+</body>
+    <script type="text/javascript">
+    $(window).on("scroll",function(){
+        if($(window).scrollTop()){
+            $('nav').addClass('black');
+            }
+        else{$('nav').removeClass('black');}
+    }
+                 )
+                 
+    
+    </script>
+    </html>
+    
